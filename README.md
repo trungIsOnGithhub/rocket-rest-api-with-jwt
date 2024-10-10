@@ -1,5 +1,7 @@
 # Rocket REST API with JWT
 
+https://www.youtube.com/watch?v=Gu1XoDi8Xi8
+
 ![CI](https://github.com/SakaDream/rocket-rest-api-with-jwt/workflows/CI/badge.svg)
 ![Docker CICD](https://github.com/SakaDream/rocket-rest-api-with-jwt/workflows/Docker%20CICD/badge.svg)
 
